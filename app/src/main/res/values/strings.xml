@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">11thGuidedExercise</string>
+    <string name="submit">Submit</string>
+    <string name="appdet">APPDET</string>
+    <string name="comprog1">COMPROG1</string>
+    <string name="comprog2">COMPROG2</string>
+    <string name="intcomp">INTCOMP</string>
+    <string name="name">Name</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="what_is_are_your_favorite_computer_subject_s">What is/are your favorite computer subject/s?</string>
+    <string name="what_job_do_you_prefer_after_graduation">What job do you prefer after graduation?</string>
+    <string name="what_do_you_prefer_for_a_thesis_topic_title">What do you prefer for a thesis topic/title?</string>
+    <string name="intent_guided_exercise">Intent Guided Exercise</string>
+    <string name="age">Age</string>
+    <string name="intent_guided_exercise1">Intent Guided Exercise</string>
+    <string name="Name">Name:</string>
+    <string name="Age">Age:</string>
+    <string name="Gender">Gender:</string>
+    <string name="Subjects">Subjects:</string>
+    <string name="Job">Job</string>
+    <string name="thesis">Thesis</string>
+</resources>
